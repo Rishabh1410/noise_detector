@@ -10,6 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   http: ^0.12.0+4
+  syncfusion_flutter_gauges: ^1.0.0-beta
 
   cupertino_icons: ^0.1.2
   flutter_timer: ^0.0.6
